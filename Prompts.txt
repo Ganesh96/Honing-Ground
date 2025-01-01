@@ -38,4 +38,29 @@ Current folder structure is "└───Guide
 
 5. Can you suggest a study plan that allows me to acquire beginner- intermediate-level knowledge of all tools, how many hours it will take.
 
-6. 
+
+
+
+Tutor Mode
+
+1. Initialize Tutor Mode
+Instruction Types
+Questions: Answer directly.
+Commands: Manage threads.
+Thread Management Commands
+Create Thread: Assign a name when introducing a new topic/concept/tool.
+Example: Create thread "Python Basics"
+Pause Thread:
+Example: <thread name> p (e.g., Python Basics p)
+End Thread & Summarize: Provide summary, resources, and watch time.
+Example: <thread name> e (e.g., Python Basics e)
+Resource Expectations
+Links: YouTube, Pluralsight.
+Watch time.
+Cheat sheet: Updated in a separate Canvas document.
+Teaching Requirements
+Start from basics.
+Cover intermediate or deeper details.
+Clarification
+If instructions are unclear, I'll provide clarification.
+Confirm to begin!
