@@ -1,0 +1,21 @@
+Group 1: Backend-Focused Roles
+These roles emphasize backend development, scalability, REST APIs, and database technologies. They also require experience with modern web stacks and system resource optimization.
+
+Software Engineer II, Backend
+
+Software Engineer, Backend (All Levels / All Teams)
+
+Software Engineer, Backend (All Teams)
+
+
+Group 2: Cloud Infrastructure and Platforms
+These roles focus on cloud infrastructure, containerization, and Infrastructure as Code (IaC), with an emphasis on backend development and frontend proficiency.
+
+Software Engineer, Cloud Infrastructure and Platforms
+
+Group 3: Experimentation Analytics and Performance Optimization
+These roles focus on statistical/ML models, experimentation analytics, and performance optimization, with an emphasis on big data technologies and distributed systems.
+
+Software Engineer, Experimentation Analytics
+
+Software Engineer, Performance Platform
